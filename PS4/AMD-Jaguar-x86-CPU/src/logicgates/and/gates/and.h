@@ -1,4 +1,8 @@
-int and_gate(int a, int b)
+class Num
 {
-	    return (a + b);
-}
+ private:
+ int num;
+ public:
+ Num(int n);
+ int getNum();
+};
