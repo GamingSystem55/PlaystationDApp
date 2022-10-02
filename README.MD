@@ -10,6 +10,11 @@ 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
 # Links
 https://ipfs.fleek.co/ipfs/bafybeihpnoonxn2ob6k3cmu7t4fzea5zppezgu7ybkvj7lpdcrft3ffd3m
 
+# Fleek Strorage
+
+Fleek API Storage
+ds5bpmx6iQernSoTN9vyjQ==
+
 
 ipfs name publish QmVgkWsKAcxwQYmBNhSRkBJzy7SNfQqubYaxX4R5FPto
 
