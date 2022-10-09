@@ -1,0 +1,4 @@
+fn amdzen2cpu
+{ 
+   println!("AMDZen2CPU))
+}
