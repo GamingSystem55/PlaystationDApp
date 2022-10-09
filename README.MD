@@ -1,3 +1,18 @@
+#RoadMap
+
+# Download Images
+Use Tor Browser for annonimity
+#IPFS-CLI
+        1.ipfs init
+        2.ipfs daemon
+        3.ipfs add -r [PS2/images/vol1]
+        
+  Open Browser 
+  
+  type ipfs.io/ipfs/[CID]
+  i.e ipfs.io/ipfs/ QmNdYpiyTvwXuwpu6iKaNjFBHppF8A1SacATHJ1rb1pzMk
+        
+
 # References
 
 https://github.com/EugeneMaz10/PS5-DApp
