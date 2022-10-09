@@ -22,6 +22,8 @@ ipfs name publish QmVgkWsKAcxwQYmBNhSRkBJzy7SNfQqubYaxX4R5FPto
 
 k51qzi5uqu5dlgno2kcnv1ujxdm8r8axilkggeeayqbjyhihjeyloa1fnsq488: /ipfs/QmVgkWsKAcxwQYmBNhSRkBJzy7SNfQqubYaxX4R5FPtoZn
 
+1.https://ipfs.fleek.co/ipfs/bafybeiddncj2cbna2sxtmb6hrkokk2npi3cphoexqqdpoxlg77g6b5efym
+
 IPNS names can be resolved by IPFS gateways in a trusted fashion using both path resolution and subdomain resolution style:
 
 Path resolution: https://ipfs.io/ipns/k51qzi5uqu5dlgno2kcnv1ujxdm8r8axilkggeeayqbjyhihjeyloa1fnsq488
