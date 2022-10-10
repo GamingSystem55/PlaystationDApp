@@ -25,6 +25,9 @@ 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
 # Links
 https://ipfs.fleek.co/ipfs/bafybeihpnoonxn2ob6k3cmu7t4fzea5zppezgu7ybkvj7lpdcrft3ffd3m
 
+# IDE
+https://chainide.com/s/dfinity/d2e8b46d1a5345a59b5c18016d2e560f?open=hello.py&type=file
+
 # Fleek Strorage
 
 Fleek API Storage
