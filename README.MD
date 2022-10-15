@@ -23,6 +23,13 @@ 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
 
 
 
+<<<<<<< HEAD
+=======
+# IDE
+https://chainide.com/s/dfinity/d2e8b46d1a5345a59b5c18016d2e560f?open=hello.py&type=file
+
+# Fleek Strorage
+>>>>>>> 3576061f53ce603b3cf36fe46aafb89afd5557e2
 
 # Angular Frontend(FRontend UI interface )
 
