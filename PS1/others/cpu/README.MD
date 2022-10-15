@@ -1,1 +1,0 @@
-# The .cpp and .h will be compiled to custom .wat files then to .wasm using a custom Web3 .cpp to .wasm then they are stored in Blue-IPFS Storage 

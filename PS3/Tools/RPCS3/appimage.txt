@@ -1,3 +1,0 @@
-
-chmod a+x ./rpcs3-*_linux64.AppImage && ./rpcs3-*_linux64.AppImage
-
