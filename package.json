@@ -1,0 +1,24 @@
+{
+  "name": "playstationdapp",
+  "version": "1.0.0",
+  "description": "# Download Images Use Tor Browser for annonimity #IPFS-CLI         1.ipfs init         2.ipfs daemon         3.ipfs add -r [PS2/images/vol1]",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EugeneMaz10/PlaystationDApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EugeneMaz10/PlaystationDApp/issues"
+  },
+  "homepage": "https://github.com/EugeneMaz10/PlaystationDApp#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "ipfs-http-client": "^58.0.1"
+  },
+  "devDependencies": {}
+}
