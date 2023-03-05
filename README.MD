@@ -21,6 +21,11 @@ https://github.com/EugeneMaz10/PS5-DApp
 
 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
 
+# AzureRepos PlaystationDApp Credentials
+
+clte2onrmdzaocucr6vgcubzq66tvuwwrvxolnhamljei3bkfyfq
+
+
 
 
 <<<<<<< HEAD
